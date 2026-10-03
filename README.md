@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi everyone👋
 
 
-**hirwaaimebrice-source/hirwaaimebrice-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**hirwaaimebrice-source/hirwaaimebrice-source** 
 
 - 🔭 I’m currently working on mobile banking system
 - 🌱 I’m currently learning JAVASCRIPT PROGRAMMING LANGUAGE
